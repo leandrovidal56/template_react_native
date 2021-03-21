@@ -1,5 +1,6 @@
-import React from 'react'; 
+import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
+
 
 import Splash from '../pages/Splash';
 import Home from '../pages/Home';
