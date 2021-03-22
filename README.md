@@ -1,4 +1,4 @@
-# Template_react_native_typescript
+# Template React Native Typescript
 
 template Typescript  with settings basicis for use development in React Native.
 
@@ -6,7 +6,7 @@ template Typescript  with settings basicis for use development in React Native.
 	🚧  React Native Typescript 📱 In building...  🚧
 </h4>
 
-# Composição_do_projeto
+# Composição Do Projeto
 =================
 <!--ts-->
    * [About](#template_react_native_typescript)
@@ -63,6 +63,3 @@ This project use tecnologies
 Autor
 
 Leandro Vidal 🤓 🚀
-
-https://shields.io
-https://blog.rocketseat.com.br/como-fazer-um-bom-readme/#contribuicao

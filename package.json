@@ -1,7 +1,7 @@
 {
   "name": "boilerplate_react_native",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -10,7 +10,7 @@
     "lint": "eslint src --max-warnings=0",
     "postinstall": "husky install"
   },
-  "lint-staged":{
+  "lint-staged": {
     "src/**/*": [
       "yarn lint --fix"
     ]
@@ -54,5 +54,21 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "template Typescript  with settings basicis for use development in React Native.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrovidal56/template_react_native.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-boilerplate_react_native"
+  ],
+  "author": "Leandro Vidal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandrovidal56/template_react_native/issues"
+  },
+  "homepage": "https://github.com/leandrovidal56/template_react_native#readme"
 }
