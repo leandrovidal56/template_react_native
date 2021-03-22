@@ -1,11 +1,9 @@
-import React from 'react'; 
-import {View} from 'react-native';
+import React from 'react';
 import { useNavigation } from '@react-navigation/native';
-
 
 import Button from '../../components/Button';
 
-import { Container } from './styles';
+import Container from './styles';
 
 const Home: React.FC = () => {
   const navigation = useNavigation();
@@ -13,8 +11,7 @@ const Home: React.FC = () => {
     <Container>
       <Button onPress={() => navigation.navigate('Splash')}>Splash</Button>
     </Container>
-    )
-  }
-  
+  );
+};
 
 export default Home;

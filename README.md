@@ -21,7 +21,10 @@ template Typescript  with settings basicis for use development in React Native.
 - [x] Eslint
 - [x] Prettier
 - [x] Routas
-- [ ] Husky
+- [x] Styled Components
+- [x] Husky
+- [x] lint-staged
+- [ ] Import src
 - [ ] Jest or Cypress
 
 
@@ -60,3 +63,6 @@ This project use tecnologies
 Autor
 
 Leandro Vidal 🤓 🚀
+
+https://shields.io
+https://blog.rocketseat.com.br/como-fazer-um-bom-readme/#contribuicao
